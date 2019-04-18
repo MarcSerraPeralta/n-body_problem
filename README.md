@@ -2,6 +2,11 @@
 
 Simulation of a dynamic system of N particles under the gravitational force in 3 dimensions. 
 
+<p align="center">
+  <img width="480" height="270" src="https://user-images.githubusercontent.com/43704266/56387684-3ee4ba00-6225-11e9-9fc8-790bb4e162c5.gif">
+</p>
+
+
 ## Description of the system
 
 The system of N particles is descrived by a system of N ODEs of second order and N initial conditions of position and speed, using 2nd Newton's Law and Newton's law of universal gravitation. 
